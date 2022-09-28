@@ -1,0 +1,32 @@
+ul.navUl {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li.navLi {
+  float: left;
+}
+
+li.navLiA {
+  float: left;
+  background-color: #a5a5ed;
+}
+
+li.navLi a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li.navLiA a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
